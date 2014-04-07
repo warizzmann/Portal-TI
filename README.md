@@ -1,13 +1,15 @@
-Online Portfolio
+Portal Teknik Informatika
 ====
 
-this project is to make a portfolio on the internet
+this project is one of my college's assignments (Mainly using Ext JS 4)
 
 future features:<br />
 -home (guest/user)<br />
--users list (with user's summary)<br />
--projects gallery<br />
--detail project(image,screenshot,about,etc)<br />
--user detailed information<br />
--add/edit project<br />
--add/edit user detailed information<br />
+-lecture schedule<br />
+-add/update/delete lecture schedule<br />
+-news<br />
+-add/update/delete news<br />
+-e-learning(upload assignment resluts, info from lecturer, download/upload lecture materials)<br />
+-TI info<br />
+-add/update/delete TI info<br />
+-chatting (probably)<br />
